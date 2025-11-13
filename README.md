@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+
 =======
 # 🌐 Muhammad Dirgam Shacio — Personal Portfolio
 >>>>>>> 8f1ba62d7717e1139c5cb5ea8da212705c74e150
